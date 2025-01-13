@@ -1,0 +1,54 @@
+body {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+header {
+    
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 60px;
+    
+}
+
+.navigation {
+
+    text-align: center;
+    font-size: 30px;
+    position: fixed;
+}
+
+.strapline {
+    text-align: center;
+    font-size: 60px;
+    line-height: 200px;
+}
+
+.feature {
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.splash {
+    background-image: url(./images/Primary\ V1.jpg);
+}
+
+.shedYourTears {
+    background-image: url(./images/silly-shed-your-tears-1600x1080.jpg);
+}
+
+.elephantMother {
+    background-image: url(./images/elephant-mother.jpg)
+}
+
+footer {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
